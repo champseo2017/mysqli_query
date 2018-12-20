@@ -31,4 +31,5 @@ if (!$con->set_charset("utf8")) {
     var_dump($products);
     ?>
     </pre>
+
 </body>
