@@ -32,4 +32,3 @@ if (!$con->set_charset("utf8")) {
     ?>
     </pre>
 </body>
-</html>>
